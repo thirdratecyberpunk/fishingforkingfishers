@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fishing for Kingfishers</title>
+    <link>http://fishingforkingfishers.online/</link>
+    <description>Recent content on Fishing for Kingfishers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 17 May 2022 17:11:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://fishingforkingfishers.online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://fishingforkingfishers.online/posts/hello-world/</link>
+      <pubDate>Tue, 17 May 2022 17:11:00 +0100</pubDate>
+      
+      <guid>http://fishingforkingfishers.online/posts/hello-world/</guid>
+      <description>This blog is intended as a way of killing three birds with one stone (maybe not the best choice of analogy). During the lockdowns, I started to have an interest in bird photography - it was a great excuse to go out and explore nature when there was very little else to do and it was fun learning more about something I&amp;rsquo;d only casually noticed before. However, I&amp;rsquo;d mostly kept the pictures to myself and only occasionally shown them to people.</description>
+    </item>
+    
+  </channel>
+</rss>
