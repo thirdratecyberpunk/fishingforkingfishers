@@ -1,0 +1,14 @@
+baseURL = "http://fishingforkingfishers.online/"
+languageCode = "en-uk"
+title = "Fishing for Kingfishers"
+theme = "ananke"
+resourceDir = "./resources"
+Paginate = 10
+
+[params]
+  description = "(Mostly) bird photography (mostly) in the Midlands."
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
