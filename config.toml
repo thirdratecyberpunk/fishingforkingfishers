@@ -8,7 +8,7 @@ Paginate = 10
 [params]
   description = "(Mostly) bird photography (mostly) in the Midlands."
   background_color_class = "bg-black"
-  logo="./static/recap-post/images/2I1A6326_CR2_embedded.jpg"
+  logo="./static/great_tit_action_shot.jpg"
 
 [sitemap]
   changefreq = "monthly"
