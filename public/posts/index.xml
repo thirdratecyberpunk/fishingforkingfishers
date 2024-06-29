@@ -2,22 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fishing for Kingfishers</title>
-    <link>http://fishingforkingfishers.online/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Fishing for Kingfishers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Tue, 17 May 2022 17:11:00 +0100</lastBuildDate>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 29 Jun 2024 12:11:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridlington and Bempton Cliffs</title>
+      <link>http://localhost:1313/posts/bridlington-and-bempton-cliffs/</link>
+      <pubDate>Sat, 29 Jun 2024 12:11:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/bridlington-and-bempton-cliffs/</guid>
+      <description>It&amp;rsquo;s been a little while since I&amp;rsquo;ve managed to go out and take some photographs, but this was a pretty nice way of getting back into the swing of it!</description>
+      
+    </item>
     
-	<atom:link href="http://fishingforkingfishers.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sandwell Valley Trip</title>
+      <link>http://localhost:1313/posts/sandwell-valley-trip/</link>
+      <pubDate>Fri, 28 Jul 2023 17:08:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/sandwell-valley-trip/</guid>
+      <description>Another trip to Sandwell Valley!</description>
+      
+    </item>
     
+    <item>
+      <title>Fort William and Loch Lomond!</title>
+      <link>http://localhost:1313/posts/fort-william-and-loch-lomond/</link>
+      <pubDate>Sat, 01 Jul 2023 18:30:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/fort-william-and-loch-lomond/</guid>
+      <description>I spent some time in Fort William, not ten minutes away from where they filmed Braveheart.</description>
+      
+    </item>
+    
+    <item>
+      <title>Wolseley Centre and first Kingfisher!</title>
+      <link>http://localhost:1313/posts/wolseley-centre-and-first-kingfisher/</link>
+      <pubDate>Wed, 24 May 2023 15:30:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/wolseley-centre-and-first-kingfisher/</guid>
+      <description>I can shut this blog down now - I managed to see a kingfisher and get a (not great) picture of it!</description>
+      
+    </item>
+    
+    <item>
+      <title>Recap post</title>
+      <link>http://localhost:1313/posts/recap-post/</link>
+      <pubDate>Sat, 13 May 2023 17:18:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/recap-post/</guid>
+      <description>In the tradition of any good blog, I have managed to let life get in the way of updating it.</description>
+      
+    </item>
     
     <item>
       <title>Hello world!</title>
-      <link>http://fishingforkingfishers.online/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 17 May 2022 17:11:00 +0100</pubDate>
       
-      <guid>http://fishingforkingfishers.online/posts/hello-world/</guid>
-      <description>This blog is intended as a way of killing three birds with one stone (maybe not the best choice of analogy). During the lockdowns, I started to have an interest in bird photography - it was a great excuse to go out and explore nature when there was very little else to do and it was fun learning more about something I&amp;rsquo;d only casually noticed before. However, I&amp;rsquo;d mostly kept the pictures to myself and only occasionally shown them to people.</description>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>This blog is intended as a way of killing three birds with one stone (maybe not the best choice of analogy).</description>
+      
     </item>
     
   </channel>

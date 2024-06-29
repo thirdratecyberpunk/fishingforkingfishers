@@ -4,3 +4,10 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/hugo-bootstrap-shortcodes"]
+	path = themes/hugo-bootstrap-shortcodes
+	url = https://github.com/MaFeLP/hugo-bootstrap-shortcodes
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
