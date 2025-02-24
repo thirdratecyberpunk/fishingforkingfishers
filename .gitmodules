@@ -1,9 +1,3 @@
-[submodule "gohugo-theme-ananke"]
-	path = gohugo-theme-ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
 [submodule "themes/hugo-bootstrap-shortcodes"]
 	path = themes/hugo-bootstrap-shortcodes
 	url = https://github.com/MaFeLP/hugo-bootstrap-shortcodes
