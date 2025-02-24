@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/elterwater-and-the-like/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/elterwater-and-the-like/feature.jpg" />
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/bridlington-and-bempton-cliffs/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bridlington-and-bempton-cliffs/feature.jpg" />
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       
       <guid>http://localhost:1313/posts/sandwell-valley-trip/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sandwell-valley-trip/feature.jpg" />
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       
       <guid>http://localhost:1313/posts/fort-william-and-loch-lomond/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fort-william-and-loch-lomond/feature.jpg" />
     </item>
     
     <item>
@@ -55,7 +55,7 @@
       
       <guid>http://localhost:1313/posts/wolseley-centre-and-first-kingfisher/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wolseley-centre-and-first-kingfisher/feature.jpg" />
     </item>
     
     <item>
@@ -65,7 +65,7 @@
       
       <guid>http://localhost:1313/posts/recap-post/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/recap-post/feature.jpg" />
     </item>
     
     <item>
@@ -75,7 +75,7 @@
       
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.jpg" />
     </item>
     
   </channel>
